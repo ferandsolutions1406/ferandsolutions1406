@@ -104,6 +104,3 @@ Analizo antes de implementar. Mi enfoque se centra en la creación de soluciones
   </a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
