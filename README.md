@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Iván%20Andrés%20Fernández&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20Laravel%20Expert%20|%20Software%20Architect&descSize=20&descAlignY=55" width="100%" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Senior_Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_%26_MVC-00599C?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL_Optimized-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 ---
 
