@@ -96,10 +96,10 @@ Analizo antes de implementar. Mi enfoque se centra en la creación de soluciones
 ### 📫 Contacto y Conectividad
 
 <p align="center">
-  <a href="https://linkedin.com/in/ivan-andres-fernandez-andrade-baq">
+  <a href="https://www.linkedin.com/in/ivan-andres-fernandez-andrade-351050407/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ivan.fernandez.14@hotmail.com">
+  <a href="mailto:ferandsolutions@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
