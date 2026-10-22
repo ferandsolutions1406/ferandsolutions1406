@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Iván Andrés Fernández Andrade · Desarrollador de Software Full Stack">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070D18"/><stop offset="1" stop-color="#0E1A30"/></linearGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#6E95FF"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#6E95FF"/><animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/><animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#8EA0B8" opacity=".22"/></pattern>
+<clipPath id="r"><rect width="1200" height="330" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="330" fill="url(#bg)"/>
+<circle cx="980" cy="70" r="170" fill="#6E95FF" opacity=".35" filter="url(#blur)"><animateTransform attributeName="transform" type="translate" values="0 0;-120 60;0 0" dur="16s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="300" r="150" fill="#22D3EE" opacity=".25" filter="url(#blur)"><animateTransform attributeName="transform" type="translate" values="0 0;140 -50;0 0" dur="19s" repeatCount="indefinite"/></circle>
+<rect width="1200" height="330" fill="url(#dots)"/>
+<rect x="64" y="58" width="54" height="54" rx="14" fill="#E8EEF7"/><text x="91" y="93" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="21" font-weight="700" fill="#070D18">IF</text>
+<text x="136" y="80" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#6E95FF">DESARROLLADOR FULL STACK</text>
+<text x="136" y="102" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#8EA0B8">BARRANQUILLA, COLOMBIA</text>
+<text x="62" y="178" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-2" fill="#E8EEF7">Iván Andrés <tspan fill="url(#tx)">Fernández Andrade</tspan></text>
+<text x="64" y="218" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#8EA0B8">Construyo y pongo en producción sistemas que la gente usa todos los días · PHP / Laravel</text>
+<text x="64" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#6E95FF">&gt;</text>
+<g opacity="1"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0119;0.1476;0.1619;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">Nube documental con app de escritorio en tiempo real<tspan fill="#6E95FF">▍</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1667;0.1786;0.3143;0.3286;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">Tránsito aduanero internacional: CPIC · MCI · DTAI<tspan fill="#6E95FF">▍</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3333;0.3452;0.4810;0.4952;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">Control de ingreso y malla horaria de agentes<tspan fill="#6E95FF">▍</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5000;0.5119;0.6476;0.6619;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">PQRSD con plazos de ley y portal ciudadano<tspan fill="#6E95FF">▍</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6667;0.6786;0.8143;0.8286;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">Turnos, citas y pantallas de llamado<tspan fill="#6E95FF">▍</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.8333;0.8452;0.9810;0.9952;1.0000" dur="21.0s" repeatCount="indefinite"/><text x="88" y="275" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace" font-size="19" fill="#E8EEF7">Créditos de celulares con bloqueo remoto<tspan fill="#6E95FF">▍</tspan></text></g>
+<rect x="874" y="64" width="262" height="30" rx="15" fill="#0D1626" stroke="#1E2C42"/><text x="1005" y="84" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#16A34A">● Disponible para proyectos</text>
+<rect x="882" y="106" width="254" height="30" rx="15" fill="#0D1626" stroke="#1E2C42"/><text x="1009" y="126" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#8EA0B8">Laravel · Flutter · Docker</text>
+</g></svg>
