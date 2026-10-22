@@ -73,7 +73,7 @@ Desarrollador de software **full stack** especializado en **PHP y Laravel**. Ana
 </td>
 </tr><tr>
 <td width="50%" valign="top">
-<a href="https://ferandsolutions1406.github.io/portafolio/#eventia"><img src="https://ferandsolutions1406.github.io/portafolio/img/g/eventia-07-invitacion-boda.webp" alt="💌 Nexus Eventia" /></a>
+<a href="https://ferandsolutions1406.github.io/portafolio/#eventia"><img src="https://ferandsolutions1406.github.io/portafolio/img/g/eventia-01-dashboard.webp" alt="💌 Nexus Eventia" /></a>
 <h3>💌 Nexus Eventia</h3>
 <p>Invitaciones digitales con 20 diseños, confirmación de asistencia, cupos, QR y panel de estadísticas.</p>
 <p><code>Laravel</code> <code>Tailwind v4</code> <code>QR</code> <code>PDF</code></p>
@@ -93,8 +93,8 @@ Desarrollador de software **full stack** especializado en **PHP y Laravel**. Ana
 
 <p align="center">
   <a href="https://skillicons.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,bootstrap,flutter,dart,dotnet,cs,python,docker,nginx,linux,git,github,aws,vue,react,postman&perline=11&theme=dark">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,bootstrap,flutter,dart,dotnet,cs,python,docker,nginx,linux,git,github,aws,vue,react,postman&perline=11&theme=light" alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Tailwind, Bootstrap, Flutter, Dart, .NET, C#, Python, Docker, Nginx, Linux, Git, GitHub, AWS, Vue, React, Postman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cbootstrap%2Cflutter%2Cdart%2Cdotnet%2Ccs%2Cpython%2Cdocker%2Cnginx%2Clinux%2Cgit%2Cgithub%2Caws%2Cvue%2Creact%2Cpostman&perline=11&theme=dark">
+    <img src="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cbootstrap%2Cflutter%2Cdart%2Cdotnet%2Ccs%2Cpython%2Cdocker%2Cnginx%2Clinux%2Cgit%2Cgithub%2Caws%2Cvue%2Creact%2Cpostman&perline=11&theme=light" alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Tailwind, Bootstrap, Flutter, Dart, .NET, C#, Python, Docker, Nginx, Linux, Git, GitHub, AWS, Vue, React, Postman">
   </picture></a>
 </p>
 <p align="center">
@@ -116,10 +116,6 @@ Desarrollador de software **full stack** especializado en **PHP y Laravel**. Ana
   <img src="assets/activity-light.svg" alt="Actividad en Git 2026: commits por día y por proyecto" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferandsolutions1406/ferandsolutions1406/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ferandsolutions1406/ferandsolutions1406/output/snake-light.svg" alt="Animación de las contribuciones públicas en GitHub" width="100%">
-</picture>
 
 ## 🧭 Trayectoria
 
